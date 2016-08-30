@@ -337,7 +337,7 @@ section.with-bg .section-content {
 /*-----------------------------------------------------------------*/
 .hero {
     background: url(https://s3-us-west-2.amazonaws.com/vloop-static/bg_img.jpg) top center;
-    height: 900px;
+    height: 700px;
     width: 100%;
 }
 
@@ -1512,7 +1512,10 @@ section.with-bg .section-content {
         top: calc(15%);
     }
     .hero {
-        height: 750px;
+        height: 550px;
+    }
+    .navbar-default {
+        margin: 0;
     }
 }
 
