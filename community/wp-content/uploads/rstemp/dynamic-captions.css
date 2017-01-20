@@ -1,0 +1,56 @@
+.tp-caption.Fashion-BigDisplay, .Fashion-BigDisplay {
+color:#000000;
+font-size:60px;
+line-height:60px;
+font-weight:900;
+font-style:normal;
+font-family:Raleway;
+text-decoration:none;
+background-color:transparent;
+border-color:transparent;
+border-style:none;
+border-width:0;
+border-radius:0 0 0 0;
+letter-spacing:2px;
+}
+
+.tp-caption.FatRounded, .FatRounded {
+color:#fff;
+font-size:30px;
+line-height:30px;
+font-weight:900;
+font-style:normal;
+font-family:Raleway;
+text-decoration:none;
+background-color:#000000;
+border-color:#d3d3d3;
+border-style:none;
+border-width:0px;
+border-radius:50px 50px 50px 50px;
+text-shadow:none;
+}
+
+.tp-caption.FatRounded:hover, .FatRounded:hover {
+color:#fff;
+color-transparency:1;
+text-decoration:none;
+background-color:#000000;
+background-transparency:1;
+border-color:#d3d3d3;
+border-transparency:1;
+border-style:none;
+border-width:0px;
+border-radius:50px 50px 50px 50px;
+opacity:1;
+scalex:1;
+scaley:1;
+skewx:0;
+skewy:0;
+xrotate:0;
+yrotate:0;
+2d_rotation:0;
+css_cursor:pointer;
+speed:300;
+easing:Linear.easeNone;
+}
+
