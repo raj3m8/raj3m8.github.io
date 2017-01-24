@@ -409,42 +409,42 @@ select {
   height: 780px;
 }
 .bg-slider-wrapper .flexslider .slide.slide-1 {
-  background: #253340 url('../images/background/background1.png') no-repeat 50% top;
+  background: #253340 url('../images/background/background1.jpg') no-repeat 50% top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
 .bg-slider-wrapper .flexslider .slide.slide-2 {
-  background: #253340 url('../images/background/vb.png') no-repeat 50% top;
+  background: #253340 url('../images/background/vb.jpg') no-repeat 50% top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
 .bg-slider-wrapper .flexslider .slide.slide-3 {
-  background: #253340 url('../images/background/hoops.png') no-repeat 50% top;
+  background: #253340 url('../images/background/hoops.jpg') no-repeat 50% top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
 .bg-slider-wrapper .flexslider .slide.slide-1-future {
-  background: #253340 url('../images/background/slack.png') no-repeat 50% top;
+  background: #253340 url('../images/background/slack.jpg') no-repeat 50% top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
 .bg-slider-wrapper .flexslider .slide.slide-2-future {
-  background: #253340 url('../images/background/present.png') no-repeat 50% top;
+  background: #253340 url('../images/background/present.jpg') no-repeat 50% top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
 .bg-slider-wrapper .flexslider .slide.slide-3-future {
-  background: #253340 url('../images/background/espn.png') no-repeat 50% top;
+  background: #253340 url('../images/background/espn.jpg') no-repeat 50% top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -467,7 +467,7 @@ select {
   top: 0;
   left: 0;
   height: 500px;
-  background: #253340 url('../images/background/vb_hitter_3.png') no-repeat 50% top;
+  background: #253340 url('../images/background/vb_hitter_3.jpg') no-repeat 50% top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -479,7 +479,7 @@ select {
   top: 0;
   left: 0;
   height: 500px;
-  background: #253340 url('../images/background/breakdown.png') no-repeat 50% top;
+  background: #253340 url('../images/background/breakdown.jpg') no-repeat 50% top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -821,7 +821,7 @@ select {
 }
 /* ======= cta-section ======= */
 .cta-section {
-  background: #253340 url('../images/background/lax.png') no-repeat left top;
+  background: #253340 url('../images/background/lax.jpg') no-repeat left top;
   background-size: cover;
   min-height: 420px;
   color: #fff;
@@ -829,7 +829,7 @@ select {
   border: none;
 }
 .cta-section.pricing-cta-section {
-  background-image: url('../images/background/vloop_footer-3.png');
+  background-image: url('../images/background/vloop_footer-3.jpg');
 }
 .cta-section.contact-cta-section {
   background-image: url('../images/background/bg-footer-3.jpg');
